@@ -1,0 +1,7 @@
+D:\MyProject\Monitor\MonitorTest\MonitorTest\bin\Debug\MonitorTest.exe.config
+D:\MyProject\Monitor\MonitorTest\MonitorTest\bin\Debug\MonitorTest.exe
+D:\MyProject\Monitor\MonitorTest\MonitorTest\bin\Debug\MonitorTest.pdb
+D:\MyProject\Monitor\MonitorTest\MonitorTest\obj\Debug\MonitorTest.csprojAssemblyReference.cache
+D:\MyProject\Monitor\MonitorTest\MonitorTest\obj\Debug\MonitorTest.csproj.CoreCompileInputs.cache
+D:\MyProject\Monitor\MonitorTest\MonitorTest\obj\Debug\MonitorTest.exe
+D:\MyProject\Monitor\MonitorTest\MonitorTest\obj\Debug\MonitorTest.pdb
