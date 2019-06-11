@@ -1,0 +1,7 @@
+D:\MyProject\Monitor\MonitorTest\ListTest\bin\Debug\ListTest.exe.config
+D:\MyProject\Monitor\MonitorTest\ListTest\bin\Debug\ListTest.exe
+D:\MyProject\Monitor\MonitorTest\ListTest\bin\Debug\ListTest.pdb
+D:\MyProject\Monitor\MonitorTest\ListTest\obj\Debug\ListTest.csprojAssemblyReference.cache
+D:\MyProject\Monitor\MonitorTest\ListTest\obj\Debug\ListTest.csproj.CoreCompileInputs.cache
+D:\MyProject\Monitor\MonitorTest\ListTest\obj\Debug\ListTest.exe
+D:\MyProject\Monitor\MonitorTest\ListTest\obj\Debug\ListTest.pdb

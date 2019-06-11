@@ -1,0 +1,7 @@
+D:\MyProject\Monitor\MonitorTest\LoctTest\bin\Debug\LoctTest.exe.config
+D:\MyProject\Monitor\MonitorTest\LoctTest\bin\Debug\LoctTest.exe
+D:\MyProject\Monitor\MonitorTest\LoctTest\bin\Debug\LoctTest.pdb
+D:\MyProject\Monitor\MonitorTest\LoctTest\obj\Debug\LoctTest.csprojAssemblyReference.cache
+D:\MyProject\Monitor\MonitorTest\LoctTest\obj\Debug\LoctTest.csproj.CoreCompileInputs.cache
+D:\MyProject\Monitor\MonitorTest\LoctTest\obj\Debug\LoctTest.exe
+D:\MyProject\Monitor\MonitorTest\LoctTest\obj\Debug\LoctTest.pdb

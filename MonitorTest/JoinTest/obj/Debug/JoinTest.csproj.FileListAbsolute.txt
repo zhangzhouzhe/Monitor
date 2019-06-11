@@ -1,0 +1,7 @@
+D:\MyProject\Monitor\MonitorTest\JoinTest\bin\Debug\JoinTest.exe.config
+D:\MyProject\Monitor\MonitorTest\JoinTest\bin\Debug\JoinTest.exe
+D:\MyProject\Monitor\MonitorTest\JoinTest\bin\Debug\JoinTest.pdb
+D:\MyProject\Monitor\MonitorTest\JoinTest\obj\Debug\JoinTest.csprojAssemblyReference.cache
+D:\MyProject\Monitor\MonitorTest\JoinTest\obj\Debug\JoinTest.csproj.CoreCompileInputs.cache
+D:\MyProject\Monitor\MonitorTest\JoinTest\obj\Debug\JoinTest.exe
+D:\MyProject\Monitor\MonitorTest\JoinTest\obj\Debug\JoinTest.pdb
